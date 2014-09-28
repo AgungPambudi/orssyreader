@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <EditTextPreference android:key="PREF_RSS_URL"
+    	android:title="@string/rss_url_prompt"
+    	android:summary="Touch to change the RSS Feed URL"
+    	android:defaultValue="http://drocode.com/feed/"
+    	android:inputType="textUri"
+    	android:singleLine="false"
+    	/>
+    
+   	<CheckBoxPreference android:key="PREF_WIFI"
+    	android:title="@string/wifi_only_prompt"
+    	android:defaultValue="false"
+    	/>
+</PreferenceScreen>

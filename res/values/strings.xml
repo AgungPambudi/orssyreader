@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Orssy Reader</string>
+    
+    <string name="rss_url_prompt">RSS Feed URL</string>
+    <string name="wifi_only_prompt">Auto-update on WiFi only</string>
+    
+    <string name="menu_update">Refresh</string>
+    <string name="menu_preferences">Settings</string>
+    <string name="menu_help">Help / About</string>
+    <string name="menu_exit">Exit</string>
+    
+    <string name="app_exit_message">Are you sure want to exit?</string>
+    <string name="str_no">No</string>
+    <string name="str_ok">OK</string>
+    
+</resources>
